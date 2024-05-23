@@ -223,6 +223,7 @@ body {
   border: 2px solid transparent;
   text-align: center;
   margin-bottom: 32px;
+  zoom:110%;
 }
 
 .desktop .icon-desktop a {
