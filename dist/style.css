@@ -12,13 +12,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.chrome-pop-up {
-    position: absolute; /* Ensure it can be moved around */
-    cursor: move; /* Change cursor to indicate draggable */
-      height: 800px;
-    width: 1300px;
-    background-color: lightblue; /* For visibility */
-}
+
 
 .desktop {
   height: 100vh;
